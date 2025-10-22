@@ -1,7 +1,7 @@
 # Website Basic Information
 baseURL = "https://blogur.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
 title = "Athenalarm بلاگ"
-languageCode = "ur-pk"
+languageCode = "ur"
 theme = "ananke"
 
 # Author Information (optional)
